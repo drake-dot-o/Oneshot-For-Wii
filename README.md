@@ -1,7 +1,7 @@
 Just wanted to fork this in case any changes were needed and to catalogue that it works for Wii U. 
 
 
-# Oneshot For Wii
+# Oneshot For Wii / Wii U
 A Port of the Freeware (2014) Ver. of Oneshot for the Wii. Thanks to derric young for giving the idea to me after he had problems himself to get it to work on his wii.
 Here's how to get Oneshot to Work on your Wii: First of all you need to have a Modded Wii with Homebrew or else it wont work.
 
