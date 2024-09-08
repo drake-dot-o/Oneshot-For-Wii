@@ -4,6 +4,7 @@ Just wanted to fork this in case any changes were needed and to catalogue that i
 # Oneshot For Wii
 A Port of the Freeware (2014) Ver. of Oneshot for the Wii. Thanks to derric young for giving the idea to me after he had problems himself to get it to work on his wii.
 Here's how to get Oneshot to Work on your Wii: First of all you need to have a Modded Wii with Homebrew or else it wont work.
+
 **Wii U users can use the latest version of EasyRPG for Wii U (.wuhb) and it *should* work fine**!
 
 
@@ -19,5 +20,6 @@ Have fun!!!
 # Wii U Instructions:
 1. Download EasyRPG Wii U by going to https://ci.easyrpg.org/view/Pull%20Requests/job/player-wiiu-pr/ (as of 9/7/24, the Wii U releases are still a bit experimental) and downloading `easyrpg-player.wuhb`
 2. Download Oneshot in the "Releases" section
-3. Place `easyrpg-player.wuhb` in `SD:/wiiu/apps/` (or a sub-folder)
-4. 
+3. Place `easyrpg-player.wuhb` in `SD:/wiiu/apps/easyrpg-player/`
+4. Place the release build in `SD:/wiiu/apps/easyrpg-player/`
+5. Launch it the app, and you're set to go 
