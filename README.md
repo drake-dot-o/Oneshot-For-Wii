@@ -22,4 +22,4 @@ Have fun!!!
 2. Download Oneshot in the "Releases" section
 3. Place `easyrpg-player.wuhb` in `SD:/wiiu/apps/easyrpg-player/`
 4. Place the release build in `SD:/wiiu/apps/easyrpg-player/`
-5. Launch it the app, and you're set to go 
+5. Launch it inside of the EasyRPG player app, and you're set to go 
